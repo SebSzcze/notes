@@ -1,0 +1,14 @@
+{
+    "name": "lari/notes",
+    "description": "Model notes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian Szczepanski",
+            "email": "sebastian@ably.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
